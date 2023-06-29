@@ -1,4 +1,24 @@
+header {
+    background-color: #562EFF;
+}
+
+* {
+    margin: 0 auto;
+}
+
+.header-tab {
+    display: flex;
+}
+
+.header-photo {
+    display: flex;
+}
+
 .header-photo img {
     width: 40.424px;
-    height: 40px;
+    height: 42.424px;
+}
+
+.header-manu {
+    display: flex;
 }
