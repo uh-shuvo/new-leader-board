@@ -18,8 +18,8 @@ header {
 }
 
 .header-photo img {
-    width: 38.424px;
-    height: 38.424px;
+    width: 40.424px;
+    height: 42.424px;
 }
 
 .logo-name {
@@ -36,7 +36,7 @@ header {
 
 .header-manu a {
     text-decoration: none;
-    margin: 12px;
+    margin: 10px;
     color: white;
     font-size: 16px;
 }
@@ -44,5 +44,5 @@ header {
 .manu-photo img {
     width: 30px;
     height: 30px;
-    margin-top: 8px;
+    margin-top: 6px;
 }
