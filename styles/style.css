@@ -8,6 +8,8 @@ header {
 
 .header-tab {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .header-photo {
@@ -15,8 +17,16 @@ header {
 }
 
 .header-photo img {
-    width: 40.424px;
-    height: 42.424px;
+    width: 38.424px;
+    height: 38.424px;
+}
+
+.logo-name {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-left: 5px;
+    color: white;
 }
 
 .header-manu {
