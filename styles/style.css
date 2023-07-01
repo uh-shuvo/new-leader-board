@@ -146,3 +146,13 @@ nav {
     font-size: 20px;
     font-weight: 500;
 }
+
+.blog-author {
+    font-size: 16px;
+    color: #562EFF;
+}
+
+.author-by {
+    font-size: 16px;
+    color: #9F9F9F;
+}
