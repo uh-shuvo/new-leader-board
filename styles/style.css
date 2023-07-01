@@ -110,3 +110,27 @@ nav {
     width: 56px;
     height: 56px;
 }
+
+.player-name {
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+    align-items: center;
+}
+
+/* blog start 
+============= */
+.blogs {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 20px;
+}
+
+.blog {
+    display: flex;
+}
+
+.blog img {
+    width: 224px;
+    height: 117px;
+}
