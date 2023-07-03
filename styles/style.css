@@ -12,6 +12,7 @@ main {
     margin: 0 auto;
     margin-top: 20px;
     border-radius: 10px;
+    padding-bottom: 20px;
 }
 
 nav {
@@ -86,7 +87,7 @@ nav {
     margin-left: 10px;
     padding: 20px;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 700;
     color: #562EFF;
 }
 
@@ -113,7 +114,7 @@ nav {
 
 .player-name {
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 700;
     margin-left: 10px;
     align-items: center;
 }
@@ -144,7 +145,7 @@ nav {
 
 .blog-title {
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .blog-author {
@@ -176,4 +177,44 @@ nav {
 .course img {
     width: 224px;
     height: 120px;
+}
+
+.course-name {
+    font-size: 20.034px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+.course-author {
+    font-size: 13px;
+    font-weight: 400;
+    color: #ED6B4F;
+    line-height: normal;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.course-duration {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fa-star {
+    color: #FFC014;
+    font-size: 12px;
+}
+
+.filled-empty {
+    color: #9F9F9F;
+}
+
+.rating {
+    margin-left: 10px;
+    align-items: center;
+}
+
+.course-time {
+    margin-right: 20px;
+    align-items: center;
 }
