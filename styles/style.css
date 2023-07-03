@@ -156,3 +156,24 @@ nav {
     font-size: 16px;
     color: #9F9F9F;
 }
+
+#banner-id {
+    margin-left: 10px;
+}
+
+/* course section start 
+======================= */
+.courses {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 5px;
+}
+
+.course {
+    margin-left: 20px;
+}
+
+.course img {
+    width: 224px;
+    height: 120px;
+}
